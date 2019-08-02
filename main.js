@@ -1,2 +1,2 @@
 var num=50;
-var truth="hello coders"
+var truth="hello suchki"
